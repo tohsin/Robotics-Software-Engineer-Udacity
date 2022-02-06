@@ -1,0 +1,12 @@
+/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/CMakeFiles/install/strip.dir
+/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/CMakeFiles/install.dir
+/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/CMakeFiles/rebuild_cache.dir
+/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/CMakeFiles/install/local.dir
+/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/CMakeFiles/test.dir
+/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/CMakeFiles/list_install_components.dir
+/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/CMakeFiles/doxygen.dir
+/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/CMakeFiles/edit_cache.dir
+/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/CMakeFiles/tests.dir
+/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/CMakeFiles/clean_test_results.dir
+/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/CMakeFiles/run_tests.dir
+/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/CMakeFiles/download_extra_data.dir
