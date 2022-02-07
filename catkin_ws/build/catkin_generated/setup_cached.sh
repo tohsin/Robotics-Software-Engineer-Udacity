@@ -5,11 +5,12 @@
 # it emulates the modifications of the setup script without recurring computations
 
 # new environment variables
-export PYTHONPATH='/Users/elena/opt/miniconda3/envs/robostackenv/lib/python3.8/site-packages'
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/devel:$CMAKE_PREFIX_PATH"
-export PATH='/Users/elena/opt/miniconda3/envs/robostackenv/bin:/Users/elena/opt/miniconda3/envs/robostackenv/share/rubygems/bin:/Users/elena/.nvm/versions/node/v11.0.0/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Users/elena/opt/anaconda3/condabin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands'
+export PATH='/Users/elena/opt/miniconda3/envs/robostackenv/bin:/Users/elena/opt/miniconda3/envs/robostackenv/share/rubygems/bin:/Users/elena/.nvm/versions/node/v11.0.0/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/elena/.nvm/versions/node/v11.0.0/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Users/elena/opt/anaconda3/condabin'
+export PKG_CONFIG_PATH="/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build'
+export PYTHONPATH="/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/devel/lib/python3.8/site-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES='/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/devel/share/common-lisp'
 export ROS_PACKAGE_PATH="/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/src:$ROS_PACKAGE_PATH"

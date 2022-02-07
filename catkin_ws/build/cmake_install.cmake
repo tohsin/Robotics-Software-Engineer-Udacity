@@ -128,6 +128,12 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   file(INSTALL DESTINATION "/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/install" TYPE FILE FILES "/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/catkin_generated/installspace/.rosinstall")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for each subdirectory.
+  include("/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/build/simple_arm/cmake_install.cmake")
+
+endif()
+
 if(CMAKE_INSTALL_COMPONENT)
   set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")
 else()

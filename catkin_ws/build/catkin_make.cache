@@ -1,2 +1,2 @@
-
+simple_arm
 -DCATKIN_DEVEL_PREFIX=/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/install -G Unix Makefiles

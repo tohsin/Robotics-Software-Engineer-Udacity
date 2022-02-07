@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+    <robot name="Robot1">
+        <link name="base_link">
+            <visual>
+                <geometry>
+                    <box size="0.2 .3 .1" />
+                </geometry>
+            </visual>
+        </link>
+    </robot>

@@ -1,0 +1,8 @@
+prefix=/Users/elena/dev/Robotics-Software-Engineer-Udacity/catkin_ws/install
+
+Name: kr210_claw_moveit
+Description: Description of kr210_claw_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
